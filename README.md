@@ -1,36 +1,46 @@
- # CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
-  ## AIM
-       To Create an Account in AWS Set up a Root user and an IAM user.
-## PROBLEM STATEMENT
-       This experiment involves creating an AWS account, configuring security settings for the root user, and setting up an IAM user. IAM users allow for secure, managed access to AWS resources without exposing the main account's root credentials.
+EX_01_INSTALLING AND RUNNING APPLICATIONS ON ANDROID STUDIO 
+## AIM:
 
-## ALGORITHM
- ### Steps 1:
- Create an AWS Account 
- ### Steps 2:
- Log In as Root User
- ### Steps 3:
- Open IAM Management Console
- ### Steps 4:
- Add a New IAM User
- ### Steps 5:
- Configure IAM User Login
- # Step 6:
+To install and run Android applications using Android Studio, This project aims to understand app development and testing in a real-time Android environment.
 
-Set Permissions for IAM User
-# Step 7:
-Review and Create IAM User
-## COMMANDS
-Include the commands used in the Experiment.
+## EQUIPMENTS REQUIRED:
 
-## OUTPUT
-![386819610-72fe0b8c-aece-468d-9602-31c16cb3e883](https://github.com/user-attachments/assets/73676a41-b76d-48b9-8304-7dab683d14ef)
-![388164822-89cc5f0d-c3be-4346-9c7c-8a451902ec35](https://github.com/user-attachments/assets/441218ac-3247-405b-9bf2-911df6bdb374)
+1.Android Studio – Latest version installed
+
+2.Java Development Kit (JDK) – Required for Android development
+
+3.Android SDK – Included with Android Studio
+
+4.AVD (Android Virtual Device) or Physical Android Device – For testing apps
+
+5.Stable Internet Connection – For downloading SDK tools and dependencies
+
+6.USB Cable – If testing on a physical Android device
+## PROGRAM:
+```
+Program to print the list of item.
+Developed by:SUJI S
+Registeration Number :212222040164
+```
+
+## ALGORITHM:
+
+Step 1: Install Android Studio and set up the required SDK components.
+
+step 2: Create a new project by selecting a template and configuring project details.
+
+step 3: Write the application code using Java or Kotlin.
+
+step 4: Build the project to check and fix any errors.
+
+step 5: Run the app using an emulator or a connected Android device.
+
+step 6: View the output on the device/emulator to verify the app is working.
 
 ## RESULT
-The AWS account was successfully created, with set up for the root user . Additionally, an IAM user was created with specified permissions, allowing for secure, controlled access to AWS resources without the use of the root account.
- 
 
-  
+The Android application was successfully installed and executed using Android Studio. The output "Hello, Android!" was displayed on the screen of the emulator/physical device, 
+confirming that the setup, coding, and execution process was completed correctly.
+
 
 
